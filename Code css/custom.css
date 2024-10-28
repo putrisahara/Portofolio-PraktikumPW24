@@ -1,0 +1,15 @@
+b
+{ color: rgb(23, 41, 141);
+}
+.judul { 
+color: rgb(136, 14, 14);
+font-size: 15px;
+background-color: #007bff;
+margin: 50px 30 px 50px 30px ;
+}
+.checkbox {
+    background-color: chocolate;
+color: rebeccapurple;
+}
+.spesial { font-weight: 900;
+}
